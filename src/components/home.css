@@ -1,0 +1,19 @@
+.yalper img{
+    max-height: 115%;
+    width: 50vh;
+    background-color: #18202c;
+}
+
+.parallax-container {
+    height: 700px;
+  }
+
+.yalper2 img {
+    max-height: 105%;
+    width: 50%;
+}
+
+.yalper-register img {
+    max-height: 105%;
+    width: 50%;
+}
